@@ -14,4 +14,4 @@ Type `cheat -` then press your argument completion keybind. A list of all availa
 
 This can be combined with [fzf](https://github.com/junegunn/fzf) and [fzf.lua](https://github.com/chrisant996/clink-gizmos) to create a pretty list of autosuggestions:
 
-[Demo](https://github.com/HeyItsJono/CheatCompletions/blob/main/demo.webm?raw=true)
+[demo.webm](https://user-images.githubusercontent.com/4620093/179016127-bf50030a-a1b0-414e-ae6e-499f445a83b2.webm)
